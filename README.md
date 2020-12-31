@@ -5,12 +5,12 @@
 <li>
 	<blockquote>Thaumcraft 6</blockquote>
 	<blockquote>
-		<li>Thaumic Augmentation</li>
-		<li>Baubles</li>
-		<li>Thaumcraft 6 Aspects for JEI</li>
-		<li>Thaumic Inventory Scanning</li>
-		<li>Thaumic JEI</li>
-		<li>Thaumic Mercy</li>
+		<p>Thaumic Augmentationp</p>
+		<p>Baubles</p>
+		<p>Thaumcraft 6 Aspects for JEI</p>
+		<p>Thaumic Inventory Scanning</p>
+		<p>Thaumic JEI</p>
+		<p>Thaumic Mercy<</p>
 	</blockquote>
 </li>
 <li>Astral Sorcery</li>
