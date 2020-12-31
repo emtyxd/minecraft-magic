@@ -66,7 +66,6 @@
 	<li>
 		<p>Get Ya' Tanks Here</p>
 	</li>
-
 	<li>
 		<p>Quark</p>
 	</li>
