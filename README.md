@@ -1,7 +1,7 @@
 <a href="https://github.com/emtyxd/minecraft-magic/wiki/How-to-install-modpack"><h1>How to install modpack</h1></a>
 <h1>Modlist</h1>
 <ul>
-	<li><a href="#main">Main mods</a></li>
+	<li><a href="#main-mods">Main mods</a></li>
 	<li><a href="#secondary-mods">Secondary mods</a></li>
 	<li><a href="#hud">HUD mods</a></li>
 	<li><a href="#tweaks">Tweaks mods</a></li>
