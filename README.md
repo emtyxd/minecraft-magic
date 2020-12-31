@@ -1,4 +1,8 @@
-
+<style>
+	unchanged .rich-diff-level-one{
+		text-align: center;
+	}
+</style>
 <h1>Modlist</h1>
 <h2>Main mods:</h2>
 <ol>
