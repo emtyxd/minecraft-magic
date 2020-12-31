@@ -87,7 +87,15 @@
 	<li>
 		<p>YUNG's Better Mineshafts</p>
 	</li>
-
+	<li>
+		<p>Iron Chest</p>
+	</li>
+	<li>
+		<p>Mystical Agriculture</p>
+	</li>
+	<li>
+		<p>Mystical World</p>
+	</li>
 </ol>
 <h2>HUD</h2>
 <ol>
@@ -117,5 +125,41 @@
 	</li>
 	<li>
 		<p>Smooth Font</p>
+	</li>
+</ol>
+<h2>Tweaks</h2>
+<ol>
+	<li>
+		<p>BetterFps</p>
+	</li>
+	<li>
+		<p>Clumps</p>
+	</li>
+	<li>
+		<p>ConnectedTexturesMod</p>
+	</li>
+	<li>
+		<p>Fast Leaf Decay</p>
+	</li>
+	<li>
+		<p>Foam​Fix</p>
+	</li>
+	<li>
+		<p>FTB Backups</p>
+	</li>
+	<li>
+		<p>Controlling</p>
+	</li>
+	<li>
+		<p>Phosphor</p>
+	</li>
+	<li>
+		<p>ReAuth</p>
+	</li>
+	<li>
+		<p>Server.Properties for LAN</p>
+	</li>
+	<li>
+		<p>SwingThroughGrass</p>
 	</li>
 </ol>
