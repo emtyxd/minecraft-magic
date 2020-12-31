@@ -1,6 +1,9 @@
 <a href="https://github.com/emtyxd/minecraft-magic/wiki/How-to-install-modpack"><h1>How to install modpack</h1></a>
 <h1>Modlist</h1>
-<h2>Main mods:</h2>
+<ul>
+	<li><a href="#main"></li>
+</ul>
+<h2 href="#main">Main mods:</h2>
 <ol>
 <li>Bewithment</li>
 <li>
