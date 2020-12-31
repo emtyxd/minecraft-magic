@@ -11,14 +11,31 @@
 		<p>Thaumic Inventory Scanning</p>
 		<p>Thaumic JEI</p>
 		<p>Thaumic Mercy</p>
+		<p>Enchanting With Thaumcraft</p>
 	</blockquote>
 </li>
 <li>Astral Sorcery</li>
 <li>Blood Magic</li>
-<li>Botania</li>
-<li>Electroblob's Wizardry</li>
+<li>
+	<p>Botania</p>
+	<blockquote>
+		<p>ExtraBotany</p>
+	</blockquote>
+</li>
+<li>
+	<p>Electroblob's Wizardry</p>
+	<blockquote>
+		<p>Twilight Forest Spell Pack</p>
+	</blockquote>
+</li>
 <li>EvilCraft</li>
 <li>Nature's Aura</li>
 <li>The Twilight Forest</li>
-<li>Tinkers Construct</li>
+<li>
+	<p>Tinkers Construct</p>
+	<blockquote>
+		<p>PlusTiC</p>
+	</blockquote>
+</li>
 </ol>
+<h2>Secondary mods</h2>
