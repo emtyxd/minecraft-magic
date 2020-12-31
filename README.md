@@ -1,7 +1,11 @@
 <a href="https://github.com/emtyxd/minecraft-magic/wiki/How-to-install-modpack"><h1>How to install modpack</h1></a>
 <h1>Modlist</h1>
 <ul>
-	<li><a href="#main"></li>
+	<li><a href="#main">Main mods</a></li>
+	<li><a href="#secondary">Secondary mods</a></li>
+	<li><a href="#hud">HUD mods</a></li>
+	<li><a href="#tweaks">Tweaks mods</a></li>
+	
 </ul>
 <h2 href="#main">Main mods:</h2>
 <ol>
@@ -43,7 +47,7 @@
 	</blockquote>
 </li>
 </ol>
-<h2>Secondary mods</h2>
+<h2 href="#secondary">Secondary mods</h2>
 <ol>
 	<li>
 		<p>Akashic Tome</p></li>
@@ -101,7 +105,7 @@
 		<p>Mystical World</p>
 	</li>
 </ol>
-<h2>HUD</h2>
+<h2 href="hud">HUD</h2>
 <ol>
 	<li>
 		<p>Hwyla</p>
@@ -131,7 +135,7 @@
 		<p>Smooth Font</p>
 	</li>
 </ol>
-<h2>Tweaks</h2>
+<h2 href="tweaks">Tweaks</h2>
 <ol>
 	<li>
 		<p>BetterFps</p>
