@@ -35,6 +35,7 @@
 	<p>Tinkers Construct</p>
 	<blockquote>
 		<p>PlusTiC</p>
+		<p>Tinkers' Tool Leveling</p>
 	</blockquote>
 </li>
 </ol>
@@ -70,6 +71,27 @@
 		<blockquote>
 			<p>Waila Harvestability</p>
 		</blockquote>
+	</li>
+	<li>
+		<p>Quark</p>
+	</li>
+	<li>
+		<p>Reliquary v1.3</p>
+	</li>
+	<li>
+		<p>Roots</p>
+	</li>
+	<li>
+		<p>Storage Drawers</p>
+	</li>
+	<li>
+		<p>Traverse Reforged</p>
+	</li>
+	<li>
+		<p>Waystones</p>
+	</li>
+	<li>
+		<p>YUNG's Better Mineshafts</p>
 	</li>
 
 </ol>
