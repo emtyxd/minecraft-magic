@@ -1,3 +1,4 @@
+```html
 <h1>Modlist</h1>
 <h2>Main mods:</h2>
 <ol>
@@ -163,3 +164,4 @@
 		<p>SwingThroughGrass</p>
 	</li>
 </ol>
+```
