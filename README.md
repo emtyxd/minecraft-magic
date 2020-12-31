@@ -66,12 +66,7 @@
 	<li>
 		<p>Get Ya' Tanks Here</p>
 	</li>
-	<li>
-		<p>Hwyla</p>
-		<blockquote>
-			<p>Waila Harvestability</p>
-		</blockquote>
-	</li>
+
 	<li>
 		<p>Quark</p>
 	</li>
@@ -94,4 +89,34 @@
 		<p>YUNG's Better Mineshafts</p>
 	</li>
 
+</ol>
+<h2>HUD</h2>
+<ol>
+	<li>
+		<p>Hwyla</p>
+		<blockquote>
+			<p>Waila Harvestability</p>
+		</blockquote>
+	</li>
+	<li>
+		<p>Inventory Tweaks</p>
+	</li>
+	<li>
+		<p>Mouse Tweaks</p>
+	</li>
+	<li>
+		<p>JourneyMap</p>
+	</li>
+	<li>
+		<p>JEI</p>
+		<blockquote>
+			<p>JER</p>
+		</blockquote>
+	</li>
+	<li>
+		<p>Neat</p>
+	</li>
+	<li>
+		<p>Smooth Font</p>
+	</li>
 </ol>
