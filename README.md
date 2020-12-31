@@ -3,14 +3,14 @@
 <ol>
 <li>Bewithment</li>
 <li>
-	<blockquote>Thaumcraft 6</blockquote>
+	<p>Thaumcraft 6</p>
 	<blockquote>
 		<p>Thaumic Augmentationp</p>
 		<p>Baubles</p>
 		<p>Thaumcraft 6 Aspects for JEI</p>
 		<p>Thaumic Inventory Scanning</p>
 		<p>Thaumic JEI</p>
-		<p>Thaumic Mercy<</p>
+		<p>Thaumic Mercy</p>
 	</blockquote>
 </li>
 <li>Astral Sorcery</li>
