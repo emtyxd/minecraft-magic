@@ -1,6 +1,5 @@
 
-Modlist
-=====
+<h1>Modlist</h1>
 <h2>Main mods:</h2>
 <ol>
 <li>Bewithment</li>
