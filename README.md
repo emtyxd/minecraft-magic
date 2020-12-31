@@ -3,7 +3,7 @@
 <ol>
 <li>Bewithment</li>
 <li>
-	<blockquote><li>Thaumcraft 6</li></blockquote>
+	<blockquote>Thaumcraft 6</blockquote>
 	<blockquote>
 		<li>Thaumic Augmentation</li>
 		<li>Baubles</li>
