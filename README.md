@@ -1,4 +1,4 @@
-
+<a href="https://github.com/emtyxd/minecraft-magic/wiki/How-to-install-modpack">How to install-modpack</a>
 <h1>Modlist</h1>
 <h2>Main mods:</h2>
 <ol>
