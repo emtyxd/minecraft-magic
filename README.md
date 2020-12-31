@@ -1,4 +1,4 @@
-# Modlist
+<h1 style="text-align: center; color: white; background-color: black;">Modlist</h1>
 <h2>Main mods:</h2>
 <ol>
 <li>Bewithment</li>
