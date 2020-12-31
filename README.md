@@ -2,7 +2,7 @@
 <h1>Modlist</h1>
 <ul>
 	<li><a href="#main">Main mods</a></li>
-	<li><a href="#secondary">Secondary mods</a></li>
+	<li><a href="#secondary-mods">Secondary mods</a></li>
 	<li><a href="#hud">HUD mods</a></li>
 	<li><a href="#tweaks">Tweaks mods</a></li>
 	
@@ -47,7 +47,7 @@
 	</blockquote>
 </li>
 </ol>
-<h2 href="#secondary">Secondary mods</h2>
+<h2 href="#secondary-mods">Secondary mods</h2>
 <ol>
 	<li>
 		<p>Akashic Tome</p></li>
